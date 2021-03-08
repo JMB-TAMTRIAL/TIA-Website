@@ -38,7 +38,7 @@ The Partner's current site (http://turn-it-around.org) is considered "cluttered"
     - WooCommerce Memberships
     - WooCommerce Subscriptions (may not be needed)
     - WooCommerce Bookings (client may choose to use Calendly option)
-    - Chatbot - Suggest this plugin: (https://wordpress.org/plugins/chatbot/
+    - Chatbot - Suggest this plugin: https://wordpress.org/plugins/chatbot/
     - FontAwesome for icons (if needed)
     - Adobe web Fonts (if needed)
 
