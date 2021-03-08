@@ -1,14 +1,17 @@
 # _Turn It Around_ Website
 ### Website Redesign for the _Turn It Around_ Organization
+
+
 ___
 
+
 ### Partner Info
-* The _Turn It Around_ organization seeks to become a nationally-recognized resource to foster an anti-bullying movement in schools. 
+The _Turn It Around_ organization seeks to become a nationally-recognized resource to foster an anti-bullying movement in schools. 
 
 
 
 ### Project Overview
-* The Partner's current site (http://turn-it-around.org) is considered "cluttered" and difficult to use. The website redesign's main objective is to improve site navigation and functionality—allowing visitors (often students or counselors) quick and easy access to existing support resources and program materials. Additionally, the website will serve as a new revenue stream for the Partner by selling memberships, coaching sessions and branded merchandise through an online store. Site design needs to be clean, image-forward, and include new branding and design elements from the organization's recent rebrand. 
+The Partner's current site (http://turn-it-around.org) is considered "cluttered" and difficult to use. The website redesign's main objective is to improve site navigation and functionality—allowing visitors (often students or counselors) quick and easy access to existing support resources and program materials. Additionally, the website will serve as a new revenue stream for the Partner by selling memberships, coaching sessions and branded merchandise through an online store. Site design needs to be clean, image-forward, and include new branding and design elements from the organization's recent rebrand. 
 
 
 
@@ -42,4 +45,4 @@ ___
 
 
 ## Launch Date
-* October 25, 2021
+October 25, 2021
